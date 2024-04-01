@@ -15,10 +15,10 @@ import { useNavigate } from 'react-router-dom';
 function ManageUsers() {
   const navigate = useNavigate();
   const [users, setUsers] = useState([
-    { id: 1, username: 'kpatel169', role: 'Student', enabled: true },
+    { id: 1, username: 'kevin', role: 'Student', enabled: true },
     { id: 2, username: 'thood', role: 'Faculty', enabled: true },
     { id: 3, username: 'kjenner', role: 'Staff', enabled: false },
-    { id: 4, username: 'ytuig', role: 'Moderator', enabled: true },
+    { id: 4, username: 'TA', role: 'Moderator', enabled: true },
     { id: 5, username: 'asimon22', role: 'Student', enabled: false },
   ]); // State to store the list of users
 

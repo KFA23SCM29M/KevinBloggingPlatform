@@ -2,10 +2,10 @@
   "posts": [
     {
       "id": "965d",
-      "title": "Smartphone Evaluation",
+      "title": "Android vs Apple",
       "topic": "technology",
       "content": "<h1 class=\"ql-align-justify\">Era of Smartphone</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">In the fast-paced world of technology, smartphones have become ubiquitous, revolutionizing the way we communicate, work, and entertain ourselves. From humble beginnings as simple communication devices to powerful handheld computers, smartphones have evolved tremendously over the years, shaping the way we interact with the digital world.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><h2 class=\"ql-align-justify\">Evolution of Smartphones</h2><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">The journey of smartphones began with the introduction of devices like the IBM Simon Personal Communicator in 1994, which combined the functionalities of a mobile phone with those of a personal digital assistant (PDA). However, it was the launch of the iPhone by Apple in 2007 that truly kickstarted the era of modern smartphones. The iPhone introduced a sleek design, a user-friendly interface, and a wide range of features that set the standard for smartphones to come.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Subsequent years saw fierce competition among tech giants like Samsung, Google, and Huawei, each striving to push the boundaries of smartphone innovation. From improved cameras and faster processors to larger displays and enhanced security features, smartphones continued to evolve rapidly, becoming indispensable tools in our daily lives.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><h2 class=\"ql-align-justify\">Impact on Society</h2><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">The widespread adoption of smartphones has had a profound impact on society, fundamentally altering the way we communicate, work, and access information. With the ability to connect to the internet anywhere, anytime, smartphones have transformed how we stay informed, shop, and even socialize.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Moreover, smartphones have revolutionized industries such as healthcare, education, and transportation, enabling greater access to essential services and resources. For instance, mobile health apps allow users to monitor their health and access medical information on the go, while educational apps make learning more accessible and engaging.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><h2 class=\"ql-align-justify\">Challenges and Future Trends</h2><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Despite their numerous benefits, smartphones also present challenges such as digital addiction, privacy concerns, and the digital divide. As we continue to rely more on smartphones for various aspects of our lives, it's crucial to address these challenges and ensure that technology remains a force for good.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Looking ahead, future trends in smartphone technology include advancements in artificial intelligence, augmented reality, and 5G connectivity. These innovations promise to further enhance the capabilities of smartphones and unlock new possibilities for how we interact with the digital world.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">In conclusion, the era of smartphones has transformed the way we live, work, and play, ushering in a new age of connectivity and convenience. As technology continues to evolve, smartphones will undoubtedly remain at the forefront of innovation, shaping the future of our increasingly digital society.</p><p><br></p>",
-      "author": "Arpit Singhal",
+      "author": "Rahul Kohli",
       "shortdescription": "The \"Era of Smartphone\" blog post explores the transformative impact of smartphones on modern society. From their evolution since the introduction of the iPhone in 2007 to their profound influence on communication, work, and access to information, the article highlights both the benefits and challenges associated with smartphone technology. It also discusses future trends such as AI, AR, and 5G connectivity, showcasing the ongoing innovation in the smartphone industry and its implications for the future.",
       "createdDate": "03-07-2024",
       "replies": [
@@ -21,7 +21,7 @@
     },
     {
       "id": "567e",
-      "title": "The Future of Artificial Intelligence",
+      "title": "Tesla neuron conection",
       "topic": "technology",
       "content": "<h1 class=\"ql-align-justify\">The Future of Artificial Intelligence</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Sophie Johnson",
@@ -33,7 +33,7 @@
     },
     {
       "id": "56yu",
-      "title": "Exploring Academic Support Services",
+      "title": "Academic Support Services",
       "topic": "academic-resources",
       "content": "<h1 class=\"ql-align-justify\">Exploring Academic Support Services</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Emma Watson",
@@ -41,24 +41,37 @@
       "createdDate": "03-02-2024",
       "replies": [
         {
-          "content": "Check if Reply Works or not",
-          "user": "Kishan"
+          "content": "Flag check for comments",
+          "user": "Kevin"
+        },
+        {
+          "content": "hey\n]",
+          "user": "admin"
         }
       ]
     },
     {
       "id": "78tg",
-      "title": "The Importance of Research Opportunities",
+      "title": "RA vs TA Assistanship",
       "topic": "academic-resources",
       "content": "<h1 class=\"ql-align-justify\">The Importance of Research Opportunities</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Michael Johnson",
       "shortdescription": "This post highlights the value of research opportunities for students, from undergraduate research programs to internships and collaborative projects, fostering critical thinking, creativity, and academic exploration.",
       "createdDate": "02-15-2024",
-      "replies": []
+      "replies": [
+        {
+          "content": "Impactfull",
+          "user": "Praveen"
+        },
+        {
+          "content": "Energetic",
+          "user": "Emma"
+        }
+      ]
     },
     {
       "id": "90sd",
-      "title": "Maximizing Library Resources",
+      "title": "Articles of human evolutioin",
       "topic": "academic-resources",
       "content": "<h1 class=\"ql-align-justify\">Maximizing Library Resources</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Sophia Wilson",
@@ -68,7 +81,7 @@
     },
     {
       "id": "23sd",
-      "title": "Effective Time Management Strategies",
+      "title": "Resume Builder",
       "topic": "academic-resources",
       "content": "<h1 class=\"ql-align-justify\">Effective Time Management Strategies</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "David Brown",
@@ -77,34 +90,64 @@
       "replies": []
     },
     {
-      "id": "12cv",
-      "title": "Crafting an Impressive Resume",
-      "topic": "career-services",
-      "content": "<h1 class=\"ql-align-justify\">Crafting an Impressive Resume</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
-      "author": "Michael Brown",
-      "shortdescription": "This post offers guidance on crafting an impressive resume, including formatting tips, relevant content selection, and showcasing skills and achievements effectively, increasing chances of securing job interviews and career opportunities.",
-      "createdDate": "01-25-2024",
-      "replies": []
-    },
-    {
       "id": "78sd",
-      "title": "Preparing for Job Interviews",
+      "title": "Thers no I in victory, there is only V",
       "topic": "career-services",
       "content": "<h1 class=\"ql-align-justify\">Preparing for Job Interviews</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Sophia Johnson",
       "shortdescription": "This post provides tips and strategies for preparing for job interviews, including researching the company, practicing common interview questions, and presenting oneself professionally, increasing confidence and interview success.",
       "createdDate": "02-10-2024",
-      "replies": []
+      "replies": [
+        {
+          "content": "hey",
+          "user": "admin"
+        }
+      ]
     },
     {
-      "id": "34er",
-      "title": "Utilizing Career Development Resources",
+      "id": "78sd",
+      "title": "Resume bulider",
       "topic": "career-services",
-      "content": "<h1 class=\"ql-align-justify\">Utilizing Career Development Resources</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
-      "author": "David Wilson",
-      "shortdescription": "This post explores various career development resources available to students, including career counseling services, job boards, and professional development workshops, empowering students to navigate their career paths effectively.",
-      "createdDate": "02-01-2024",
-      "replies": []
+      "content": "<h1 class=\"ql-align-justify\">Preparing for Job Interviews</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
+      "author": "emilia Jackson",
+      "shortdescription": "This post provides tips and strategies for preparing for job interviews, including researching the company, practicing common interview questions, and presenting oneself professionally, increasing confidence and interview success.",
+      "createdDate": "02-10-2024",
+      "replies": [
+        {
+          "content": "hey",
+          "user": "admin"
+        }
+      ]
+    },
+    {
+      "id": "78sd",
+      "title": "SCholarship squad",
+      "topic": "career-services",
+      "content": "<h1 class=\"ql-align-justify\">Preparing for Job Interviews</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
+      "author": "Jacob Dempsey",
+      "shortdescription": "This post provides tips and strategies for preparing for job interviews, including researching the company, practicing common interview questions, and presenting oneself professionally, increasing confidence and interview success.",
+      "createdDate": "02-10-2024",
+      "replies": [
+        {
+          "content": "hey",
+          "user": "admin"
+        }
+      ]
+    },
+    {
+      "id": "78sd",
+      "title": "Housing Application",
+      "topic": "career-services",
+      "content": "<h1 class=\"ql-align-justify\">Preparing for Job Interviews</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
+      "author": "Trever baggon",
+      "shortdescription": "This post provides tips and strategies for preparing for job interviews, including researching the company, practicing common interview questions, and presenting oneself professionally, increasing confidence and interview success.",
+      "createdDate": "02-10-2024",
+      "replies": [
+        {
+          "content": "hey",
+          "user": "admin"
+        }
+      ]
     },
     {
       "id": "89sd",
@@ -128,7 +171,7 @@
     },
     {
       "id": "90we",
-      "title": "Staying Active on Campus",
+      "title": "Go for lake walk",
       "topic": "campus",
       "content": "<h1 class=\"ql-align-justify\">Staying Active on Campus</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Sophia Taylor",
@@ -138,7 +181,7 @@
     },
     {
       "id": "23ds",
-      "title": "Embracing Campus Diversity",
+      "title": "Offload on campus duty",
       "topic": "culture",
       "content": "<h1 class=\"ql-align-justify\">Embracing Campus Diversity</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Emma Johnson",
@@ -148,7 +191,7 @@
     },
     {
       "id": "78we",
-      "title": "Exploring Cultural Events",
+      "title": "Hebrews on campus",
       "topic": "culture",
       "content": "<h1 class=\"ql-align-justify\">Exploring Cultural Events</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Michael Brown",
@@ -158,7 +201,7 @@
     },
     {
       "id": "34bg",
-      "title": "Exploring Campus Traditions",
+      "title": "Greek culture",
       "topic": "culture",
       "content": "<h1 class=\"ql-align-justify\">Exploring Campus Traditions</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Emma Johnson",
@@ -240,13 +283,18 @@
     },
     {
       "id": "90dr",
-      "title": "Exploring Social Initiatives",
+      "title": "Various ethinicties",
       "topic": "social",
       "content": "<h1 class=\"ql-align-justify\">Exploring Social Initiatives</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "David Wilson",
       "shortdescription": "This post explores various social initiatives and programs aimed at addressing social issues and promoting community engagement and activism, from volunteer organizations to advocacy groups and awareness campaigns.",
       "createdDate": "01-25-2024",
-      "replies": []
+      "replies": [
+        {
+          "content": "bhi",
+          "user": "nouser"
+        }
+      ]
     },
     {
       "id": "67we",
@@ -256,7 +304,12 @@
       "author": "Sophia Taylor",
       "shortdescription": "This post discusses the importance of promoting mental health awareness and destigmatizing mental illness within campus communities, including resources, support services, and initiatives aimed at fostering mental well-being.",
       "createdDate": "03-05-2024",
-      "replies": []
+      "replies": [
+        {
+          "content": "Make it little more informative!",
+          "user": "TA"
+        }
+      ]
     },
     {
       "id": "90qw",
@@ -270,7 +323,7 @@
     },
     {
       "id": "12er",
-      "title": "Exploring Nutrition and Wellness",
+      "title": "Abbs in 15 days",
       "topic": "health-and-wellness",
       "content": "<h1 class=\"ql-align-justify\">Exploring Nutrition and Wellness</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Sophie Wilson",
@@ -290,7 +343,7 @@
     },
     {
       "id": "34df",
-      "title": "Exploring Sports Clubs",
+      "title": "High on benchpress",
       "topic": "sports",
       "content": "<h1 class=\"ql-align-justify\">Exploring Sports Clubs</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Sophia Johnson",
@@ -305,17 +358,22 @@
     },
     {
       "id": "90ki",
-      "title": "Promoting Team Sports",
+      "title": "Protein and Practise",
       "topic": "sports",
       "content": "<h1 class=\"ql-align-justify\">Promoting Team Sports</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Michael Brown",
       "shortdescription": "This post promotes participation in team sports and organized athletics, highlighting the benefits of teamwork, leadership development, and physical fitness through engaging in competitive sports leagues and tournaments.",
       "createdDate": "02-10-2024",
-      "replies": []
+      "replies": [
+        {
+          "content": "haefdiuyae",
+          "user": "TA"
+        }
+      ]
     },
     {
       "id": "45fc",
-      "title": "Exploring Fitness Facilities",
+      "title": "Its about drive, Its about power, we devour ",
       "topic": "sports",
       "content": "<h1 class=\"ql-align-justify\">Exploring Fitness Facilities</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "James Smith",
@@ -325,7 +383,7 @@
     },
     {
       "id": "34vc",
-      "title": "Exploring Alumni Networks",
+      "title": "BLAST FROM THE PAST",
       "topic": "alumni",
       "content": "<h1 class=\"ql-align-justify\">Exploring Alumni Networks</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Sophie Wilson",
@@ -335,7 +393,7 @@
     },
     {
       "id": "78fb",
-      "title": "Navigating Post-Graduation Transitions",
+      "title": "Offcampous recruting",
       "topic": "alumni",
       "content": "<h1 class=\"ql-align-justify\">Navigating Post-Graduation Transitions</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
       "author": "Michael Brown",
@@ -351,6 +409,31 @@
       "author": "Sophia Johnson",
       "shortdescription": "This post discusses the benefits of engaging with alumni communities and networks, including professional networking opportunities, mentorshipconnections, and lifelong learning resources, fostering continued personal and professional growth.",
       "createdDate": "01-30-2024",
+      "replies": []
+    },
+    {
+      "id": "e8a8",
+      "title": "e",
+      "topic": "local-community-resources",
+      "content": "<p>afaf</p>",
+      "author": "aea",
+      "shortdescription": "aefae",
+      "createdDate": "03-10-2024",
+      "replies": [
+        {
+          "content": "asfjaf\n",
+          "user": "TA"
+        }
+      ]
+    },
+    {
+      "id": "97cc",
+      "title": "inshallah",
+      "topic": "culture",
+      "content": "<p>BLAH</p>",
+      "author": "Reshma Bendapudu",
+      "shortdescription": "It deals with peace and mind functionaly",
+      "createdDate": "03-10-2024",
       "replies": []
     }
   ]

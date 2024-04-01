@@ -7,6 +7,7 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Header from './Header';
 import Footer from './Footer';
 import photo from './mainpage.png';
+import photo1 from './Education-Top-10-UK-Blogs.jpg';
 
 // Updated sections array to include an 'id' for each section
 const sections = [
@@ -37,38 +38,37 @@ export default function Blog() {
 
   return (
     <ThemeProvider theme={defaultTheme}>
-      <CssBaseline />
-      <Container maxWidth="lg">
-        <Header
-          title="Blog"
-          sections={sections.map((section) => ({
-            ...section,
-            onClick: () => handleSectionClick(section.id),
-          }))}
-          login={localStorage.getItem('login') === 'true'}
-          user={localStorage.getItem('user')}
-        />
-        <main>
-          <div style={{ marginLeft: '24px', width: 'calc(100% - 48px)' }}>
-            <img src={photo} style={{ width: '100%', height: 'auto' }} />
-            <Typography variant="h5" style={{ marginTop: '16px' }}>
-              Welcome to our college/department blogging platform!
-            </Typography>
-            <br/>
-            <Typography variant="body1" style={{ marginBottom: '24px' }}>
-              Explore a diverse range of topics, insights, and experiences shared by our community members, faculty, staff, and students. Whether you're seeking academic guidance, career advice, campus news, or simply want to stay connected with campus life, you'll find it all here.
-            </Typography>
-            <Typography variant="body1">
-              Join the conversation, share your stories, and engage with fellow members of our vibrant community. Together, let's create a platform that fosters collaboration, learning, and growth.
-            </Typography>
-          </div>
-          {/* Rest of your content */}
-        </main>
-      </Container>
-      <Footer
-        title="Footer"
-        description="Something here to give the footer a purpose!"
-      />
-    </ThemeProvider>
+  <CssBaseline />
+  <Container maxWidth="lg">
+    <Header
+      title="Blog"
+      sections={sections.map((section) => ({
+        ...section,
+        onClick: () => handleSectionClick(section.id),
+      }))}
+      login={localStorage.getItem('login') === 'true'}
+      user={localStorage.getItem('user')}
+    />
+    <main>
+      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: '24px' }}>
+        <Typography variant="h5" style={{ marginBottom: '16px' }}>
+          Education blogging platform!
+        </Typography>
+        <img src={photo1} style={{ width: '100%', height: 'auto', marginBottom: '16px' }} />
+        <Typography variant="body1" style={{ marginLeft: '24px', marginRight: '24px', marginBottom: '24px' }}>
+          Embark on a journey through the boundless realms of knowledge, where diverse voices, experiences, and insights converge. From scholarly discourse to personal narratives, from campus updates to career advice, our platform is a treasure trove of wisdom and discovery. Whether you're seeking academic guidance, career inspiration, or simply a glimpse into campus life, you'll find a wealth of content to explore and engage with. Join us as we navigate the intricate pathways of academia, fostering connections, and celebrating the richness of the English language.
+        </Typography>
+        <Typography variant="body1" style={{ marginLeft: '24px', marginRight: '24px', marginBottom: '24px' }}>
+        Join us as we converse, share stories, and connect with fellow members of our dynamic community. Together, let's build a platform that promotes collaboration, learning, and development
+        </Typography>
+      </div>
+      {/* Rest of your content */}
+    </main>
+  </Container>
+  <Footer
+    title="Illinois Institue of Technology"
+    //description="Illinois Institue of Technology"
+  />
+</ThemeProvider>
   );
 }
